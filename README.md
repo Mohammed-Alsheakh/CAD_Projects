@@ -16,5 +16,3 @@ Ideal for cinematic shots and smooth horizontal tracking.
 A mechanical system designed to crack walnuts efficiently using a custom mechanism.
 
 ---
-
-Each project folder includes CAD files, rendered images, and mechanical documentation.

@@ -17,5 +17,4 @@ A mechanical system designed to crack walnuts efficiently using a custom mechani
 
 ##  4. Shock Absorber and Spring Testing System
 
-The location where the shock absorbers will be placed with 5 asynchronous motors
----
+The location where the shock absorbers will be placed with 5 asynchronous motors.
